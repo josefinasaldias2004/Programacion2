@@ -1,0 +1,15 @@
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\obj\Debug\net6.0\SupermercadoUwu.csproj.AssemblyReference.cache
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\obj\Debug\net6.0\SupermercadoUwu.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\obj\Debug\net6.0\SupermercadoUwu.AssemblyInfoInputs.cache
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\obj\Debug\net6.0\SupermercadoUwu.AssemblyInfo.cs
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\obj\Debug\net6.0\SupermercadoUwu.csproj.CoreCompileInputs.cache
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\bin\Debug\net6.0\SupermercadoUwu.exe
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\bin\Debug\net6.0\SupermercadoUwu.deps.json
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\bin\Debug\net6.0\SupermercadoUwu.runtimeconfig.json
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\bin\Debug\net6.0\SupermercadoUwu.dll
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\bin\Debug\net6.0\SupermercadoUwu.pdb
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\obj\Debug\net6.0\SupermercadoUwu.dll
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\obj\Debug\net6.0\refint\SupermercadoUwu.dll
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\obj\Debug\net6.0\SupermercadoUwu.pdb
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\obj\Debug\net6.0\SupermercadoUwu.genruntimeconfig.cache
+C:\Users\jsaldias\source\repos\SupermercadoUwu\SupermercadoUwu\obj\Debug\net6.0\ref\SupermercadoUwu.dll
